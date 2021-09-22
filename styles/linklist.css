@@ -50,6 +50,12 @@ clear:both
     border-style: solid;
 }
 
+.featuresize{
+    clear:both;
+    display:block;
+    max-width:unset
+}
+
 section {
     margin: 20px 10px;
     color: black;
@@ -65,8 +71,8 @@ section {
     vertical-align:top;
     
     height: fit-content;
-    max-width: 600px;
-    min-width: 400px;
+    max-width: 500px;
+    min-width: 300px;
 }
 
 section nav a,section nav button,.linkbutton {
