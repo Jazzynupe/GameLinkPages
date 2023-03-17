@@ -1,2 +1,2 @@
 # Gaming Link Pages
-Link Tree pages for JazzyNupeXbox gaming profiles
+Link pages for JazzyNupeXbox gaming profiles
